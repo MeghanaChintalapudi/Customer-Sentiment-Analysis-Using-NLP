@@ -130,6 +130,4 @@ It provides a scalable solution for understanding customer opinions and supports
 
 
 
-Just say the word 🚀
 
-Is this conversation helpful so far?
